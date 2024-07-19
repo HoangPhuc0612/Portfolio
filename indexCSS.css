@@ -175,7 +175,7 @@ main {
 }
 
 .img_of_me {
-    width: 25%;
+    width: 50%;
     object-fit: cover;
     border-radius: 14px;
     filter: drop-shadow(10px 0px 92px #908b8b);
